@@ -26,6 +26,7 @@ public class Corredor extends Deportista implements Icorredor{
 	@Override
 		public Integer getDistanciaPreferida() {
 			return distanciaPreferida;
+			
 		}
 
 	@Override
